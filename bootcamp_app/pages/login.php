@@ -1,5 +1,5 @@
 
-<form action="" method="get">
+<form action="?page=authenticate" method="post">
     <label for="">Lietotājs:</label> 
     <input type="text" name="username">
     <label for="">Parole:</label>
